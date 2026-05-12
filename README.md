@@ -20,7 +20,7 @@ Aplikasi ini memungkinkan pengguna untuk menyimpan catatan dengan mudah mengguna
 ### Home Page
 
 <p align="center">
-  <img src="assets/screenshots/home1.png" width="250"/>
+  <img src="assets/Screenshot 1.png" width="250"/>
 </p>
 
 ---
