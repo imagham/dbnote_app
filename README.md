@@ -1,17 +1,46 @@
-# dbnote_app
+# 📝 My Notes App
 
-A new Flutter project.
+Aplikasi **My Notes** sederhana menggunakan **Flutter** dengan tampilan modern dan minimalis.  
+Aplikasi ini memungkinkan pengguna untuk menyimpan catatan dengan mudah menggunakan database lokal.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📌 Menambahkan catatan
+- 🗑️ Menghapus catatan
+- 💾 Penyimpanan database lokal
+- 🌙 Dark mode icon
+- 📱 Responsive UI
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshot
+
+### Home Page
+
+<p align="center">
+  <img src="assets/screenshots/home1.png" width="250"/>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+- Flutter
+- Dart
+- SQFlite
+- Material Design
+
+---
+
+## 📂 Folder Structure
+
+```bash
+lib/
+│
+├── models/
+├── pages/
+├── database/
+├── widgets/
+└── main.dart
